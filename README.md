@@ -10,6 +10,9 @@ Olist 成立於 2014 年，是一家巴西電子商務市場整合商，致力�
 2. 透過迴歸分析預測銷售量  
 3. 使用 k-means clustering 透過聚類效果尋找倉儲適合位置  
 
+分析內容連結：
+https://yuying410.github.io/Brazilian-E-Commerce-data-analysis/olist.html
+
 此筆資料來源：  
 Source:- https://www.kaggle.com/olistbr/brazilian-ecommerce  
 Uploaded In the Year : 2018  
